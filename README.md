@@ -6,4 +6,5 @@ Ils assurent également le service après-vente et la maintenance des volets rou
 
 Configurateur de volet roulant sur mesure
 
-https://clic-volet.fr
+https://clic-volet.fr (https://gist.github.com/clicvolet)
+
